@@ -1,5 +1,1 @@
-# RSA-Factoring-Challenge
-
-./factors <file>
-
-./rsa <file>
+Here you will find code related to Factoring & RSA Challenge
